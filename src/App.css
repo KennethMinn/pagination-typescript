@@ -1,0 +1,9 @@
+.next:active {
+  background-color: black;
+  color: white;
+}
+
+.prev:active {
+  background-color: black;
+  color: white;
+}
